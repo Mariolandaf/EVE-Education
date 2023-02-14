@@ -1,0 +1,242 @@
+[04-Aug-2021 21:43:03 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eveeduca/public_html/datos2.php on line 2
+[04-Aug-2021 21:43:03 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 21
+[04-Aug-2021 21:47:18 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eveeduca/public_html/datos2.php on line 2
+[04-Aug-2021 21:47:18 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 21
+[04-Aug-2021 21:47:47 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eveeduca/public_html/datos2.php on line 2
+[04-Aug-2021 21:47:47 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 21
+[04-Aug-2021 22:00:50 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'eveeduca'@'localhost' (using password: NO) in /home3/eveeduca/public_html/datos2.php on line 2
+[04-Aug-2021 22:00:50 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 21
+[04-Aug-2021 22:01:52 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eveeduca/public_html/datos2.php on line 2
+[04-Aug-2021 22:01:52 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 21
+[04-Aug-2021 22:04:28 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:04:28 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 20
+[04-Aug-2021 22:07:19 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:07:19 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 20
+[04-Aug-2021 22:13:46 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:13:46 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 20
+[04-Aug-2021 22:26:58 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:26:58 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 23
+[04-Aug-2021 22:27:45 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:27:45 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 23
+[04-Aug-2021 22:28:11 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:28:11 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 23
+[04-Aug-2021 22:40:03 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'eveeduca_admin'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:40:03 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 23
+[04-Aug-2021 22:40:42 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:40:42 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 23
+[04-Aug-2021 22:46:34 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'eveeduca_admin'@'localhost' (using password: NO) in /home3/eveeduca/public_html/index.php on line 2
+[04-Aug-2021 22:46:34 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/eveeduca/public_html/index.php on line 23
+[05-Aug-2021 09:02:19 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eveeduca/public_html/index.php:1) in /home3/eveeduca/public_html/index.php on line 33
+[05-Aug-2021 09:04:55 America/Mexico_City] PHP Warning:  include(location:unirse.html): failed to open stream: No such file or directory in /home3/eveeduca/public_html/index.php on line 33
+[05-Aug-2021 09:04:55 America/Mexico_City] PHP Warning:  include(location:unirse.html): failed to open stream: No such file or directory in /home3/eveeduca/public_html/index.php on line 33
+[05-Aug-2021 09:04:55 America/Mexico_City] PHP Warning:  include(): Failed opening 'location:unirse.html' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/eveeduca/public_html/index.php on line 33
+[18-Aug-2021 00:46:04 America/Mexico_City] PHP Warning:  utf8_decode() expects exactly 1 parameter, 4 given in /home3/eveeduca/public_html/contacto.php on line 24
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[29-Mar-2022 14:58:29 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[01-Apr-2022 19:45:47 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[05-Apr-2022 00:34:18 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[16-Apr-2022 12:02:38 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[16-Apr-2022 14:04:56 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[23-Apr-2022 01:54:23 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[25-May-2022 20:14:29 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[11-Jun-2022 20:00:30 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[14-Jun-2022 12:21:19 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[15-Jun-2022 14:51:25 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[15-Jun-2022 19:57:37 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[16-Jun-2022 16:17:46 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[20-Jun-2022 22:30:48 America/Mexico_City] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home3/eveeduca/public_html/contacto.php:30
+Stack trace:
+#0 /home3/eveeduca/public_html/contacto.php(30): mail('eve_soporte@eve...', 'Contacto: EVE', 'Nuevos comentar...', 'Content-Type: t...')
+#1 {main}
+  thrown in /home3/eveeduca/public_html/contacto.php on line 30
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[26-Jun-2022 16:45:59 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[22-Jul-2022 02:17:44 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[22-Jul-2022 09:37:25 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[22-Jul-2022 09:43:26 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/eveeduca/public_html/index.php on line 11
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home3/eveeduca/public_html/index.php on line 12
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "fecha" in /home3/eveeduca/public_html/index.php on line 13
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "tel" in /home3/eveeduca/public_html/index.php on line 14
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "pais" in /home3/eveeduca/public_html/index.php on line 15
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "ciudad" in /home3/eveeduca/public_html/index.php on line 16
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "grado" in /home3/eveeduca/public_html/index.php on line 17
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "escuela" in /home3/eveeduca/public_html/index.php on line 18
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "materiav" in /home3/eveeduca/public_html/index.php on line 19
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "horav" in /home3/eveeduca/public_html/index.php on line 20
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "experiencia" in /home3/eveeduca/public_html/index.php on line 21
+[13-Aug-2022 23:10:09 America/Mexico_City] PHP Warning:  Undefined array key "motivo" in /home3/eveeduca/public_html/index.php on line 22

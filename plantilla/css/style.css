@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   display: table;
   width: 100%;
   height: 100vh;
-  background: url("/plantilla/img/libros2.jpg") top center fixed;
+  background: url("plantilla/img/libros2.jpg") top center fixed;
   background-size: cover;
   /*.btn-services {
     border: 2px solid #fff;
@@ -996,7 +996,8 @@ body.mobile-nav-active #mobile-nav-toggle {
         grid-template-columns: 2fr 1fr 1fr 3fr;
     -ms-grid-rows: 1fr auto;
         grid-template-rows: 1fr auto;
-    grid-template: "logo links1 links2 cta" "social links1 links2 copyright";
+    grid-template: "logo links1 links2 cta"
+ "social links1 links2 copyright";
     gap: 1rem;
     justify-items: start;
   }

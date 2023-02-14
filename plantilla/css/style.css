@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   display: table;
   width: 100%;
   height: 100vh;
-  background: url("plantilla/img/libros2.jpg") top center fixed;
+  background: url("../img/libros2.jpg") top center fixed;
   background-size: cover;
   /*.btn-services {
     border: 2px solid #fff;

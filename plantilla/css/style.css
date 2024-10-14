@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   display: table;
   width: 100%;
   height: 100vh;
-  background: url("/plantilla/img/libros2.jpg") top center fixed;
+  background: url("plantilla/img/libros2.jpg") top center fixed;
   background-size: cover;
   /*.btn-services {
     border: 2px solid #fff;
@@ -549,7 +549,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-container {
-  background: url(/plantilla/img/conocenos.jpeg) left center no-repeat;
+  background: url(plantilla/img/conocenos.jpeg) left center no-repeat;
   background-size: 75rem;
 }
 
